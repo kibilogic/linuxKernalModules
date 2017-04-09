@@ -13,8 +13,8 @@
 // uname -r 4.2.0-27-generic ubuntu
 
 // echo "whatever" > /proc/test/hello
-// insmod testSum.ko
-// rmmod testSum
+// insmod testHello.ko
+// rmmod testHello
 
 // create a directory name test
 static struct proc_dir_entry *root_test_dir;
