@@ -1,7 +1,7 @@
-# proc-lkm
-creating a proc entry
+# Linux Kernel Modules
 
-Something basic but insightful enough for understanding the kernel data structures applicable to  kernel version 4.7.2.
+
+Starting off with a simple example for creating a proc entry (kernel version 4.7.2). The goal is to add more.
 
 
 
